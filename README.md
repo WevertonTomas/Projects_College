@@ -1,3 +1,3 @@
 # Projects_College
 
-No intuito de postar meus codigos da faculdade.
+With the intention of sharing my college codes.
